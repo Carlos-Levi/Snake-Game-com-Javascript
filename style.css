@@ -1,0 +1,21 @@
+
+h1{
+    color: rgb(243, 242, 240);
+    text-align: center;
+    font-size: 25px;
+    font-family:  " monospace; arial"
+
+}
+
+
+body{
+    align-items: center;
+    height: 95vh;
+    width: 95%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-image: url(imagem/JOGO\ DA\ COBRINHA.png);
+    
+}
